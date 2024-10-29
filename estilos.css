@@ -32,3 +32,10 @@ body {
     
     font-size: 16px;
 }
+
+.encabezado {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
