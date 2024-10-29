@@ -32,7 +32,7 @@
                         <a class="nav-link active" aria-current="page" href="formularios/formulario1/index.php">Formulario 1</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Formulario 2</a>
+                        <a class="nav-link" href="formularios/formulario2/index.php">Formulario 2</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Formulario 3</a>
